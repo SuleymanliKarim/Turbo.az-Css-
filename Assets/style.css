@@ -1,0 +1,29 @@
+body {
+text-decoration: none;
+font-size: 17px;
+color: rgb(236, 36, 36);
+background-color: none;
+}
+h1 {
+text-decoration: none;
+background-color: rgb(194, 10, 10);
+font-size:  50px;
+}
+h1 a{
+text-decoration: none;
+font-size: 20px;
+word-spacing: 8px;
+}
+
+i {
+    text-decoration: none;
+    color: darkgrey;
+}
+a:hover {
+    color: red;
+}
+i:hover {
+    color: red;
+}
+
+
